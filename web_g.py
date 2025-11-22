@@ -1,7 +1,7 @@
 import math
 import numpy as np
 import matplotlib.pyplot as plt
-import japanize_matplotlib  # 日本語ラベル用（不要ならコメントアウト）
+import matplotlib_fontja  #python 3.12以降対応版
 import streamlit as st
 
 # ===== 数値計算部分 =====
